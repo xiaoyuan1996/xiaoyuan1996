@@ -2,7 +2,7 @@
 
 ### Hello ~ Welcome to Xiaoyuan1996's Github 👋
 
-**My Status:**
-- 🔭 Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
-- 🌱 Received the B.Sc. degree from Harbin Engineering University, Harbin, China, in 2019.
-- 🤔 Research interests include computer vision, pattern recognition, and remote sensing image processing, especially on cross-modal retrieval and image caption.
+- 🔭 Currently: Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+- 🤔 Research interests: Computer vision  pattern recognition, especially on cross-modal retrieval and image caption.
+- 😄 Profile Page: [xiaoyuan1996.github.io](https://xiaoyuan1996.github.io/)
+- 💬 Status: Boring work make me tired ...
