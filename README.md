@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoyuan1996&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hello ~ Welcome to Xiaoyuan1996's Github 👋
+### Hello ~ Welcome to Xiaoyuan's Github 👋
 
 - 💬 **Status:** Boring work make me tired ...
 - 😄 **Profile Page:** [xiaoyuan1996.github.io](https://xiaoyuan1996.github.io/)
