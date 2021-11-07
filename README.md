@@ -1,9 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiaoyuan1996&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### 你好，世界 👋
+### Hello ~ Welcome to Xiaoyuan1996's Github 👋
 
-- :orange_book: Focusing on Swift & iOS
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
-
+**My Status:**
+- 🔭 Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+- 🌱 Received the B.Sc. degree from Harbin Engineering University, Harbin, China, in 2019.
+- 🤔 Research interests include computer vision, pattern recognition, and remote sensing image processing, especially on cross-modal retrieval and image caption.
