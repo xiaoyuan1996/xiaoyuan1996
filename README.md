@@ -2,7 +2,9 @@
 
 ### Hello ~ Welcome to Xiaoyuan1996's Github 👋
 
-- 🔭 Currently: Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
-- 🤔 Research interests: Computer vision  pattern recognition, especially on cross-modal retrieval and image caption.
-- 😄 Profile Page: [xiaoyuan1996.github.io](https://xiaoyuan1996.github.io/)
-- 💬 Status: Boring work make me tired ...
+- 💬 **Status:** Boring work make me tired ...
+- 😄 **Profile Page:** [xiaoyuan1996.github.io](https://xiaoyuan1996.github.io/)
+- 🔭 **Currently:** Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.
+- 🤔 **Research Interests:** Computer vision  pattern recognition, especially on cross-modal retrieval and image caption.
+
+
