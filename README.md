@@ -3,7 +3,6 @@
 ### Hello ～ Welcome to Xiaoyuan's Github 👋
 
 - 💬 **Status:** Boring works make me tired ...
-- 😄 **Profile Page:** [xiaoyuan1996.github.io](https://xiaoyuan1996.github.io/)
 - 🔭 **Currently:** Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.  
 - 🤔 **Research Interests:** Computer vision  pattern recognition, especially on cross-modal retrieval and image caption.
 
