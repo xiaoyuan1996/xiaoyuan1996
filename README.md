@@ -26,7 +26,7 @@
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyuan1996&theme=white&hide_border=true" />
   <a href="https://blog.csdn.net/Governer"><img src="https://stats.justsong.cn/api/csdn?id=Governer"/></a>
 </div>
 
