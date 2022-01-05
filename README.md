@@ -18,6 +18,9 @@
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
 
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=xiaoyuan1996&theme=xcode" /></div>
+
 
 # 🤝 Social
 
@@ -25,10 +28,6 @@
 <div align="center">
   <a href="https://blog.csdn.net/Governer"><img src="https://stats.justsong.cn/api/csdn?id=Governer"/></a>
 </div>
-
-<!-- 访客数统计徽标 -->
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoyuan1996" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
