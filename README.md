@@ -23,5 +23,12 @@
 
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
-  <a href="https://blog.csdn.net/weixin_50915462"><img src="https://stats.justsong.cn/api/csdn?id=Governer"/></a>
+  <a href="https://blog.csdn.net/Governer"><img src="https://stats.justsong.cn/api/csdn?id=Governer"/></a>
 </div>
+
+<!-- 访客数统计徽标 -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoyuan1996" /></div>
+
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/github-contribution-grid-snake.svg" /></div>
+
