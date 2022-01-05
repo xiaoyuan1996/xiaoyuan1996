@@ -11,14 +11,14 @@
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小袁同学祝您今天愉快!&center=true&size=27">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyuan1996&theme=white&hide_border=true" />
+
   </a>
 </h1>
 
 <!-- 敲代码的图片 -->
 <div align="center" >
   <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" />
-
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyuan1996&theme=white&hide_border=true" />
 </div>
 <br>
 
