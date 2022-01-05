@@ -27,6 +27,7 @@
 </div>
 
 <!-- 访客数统计徽标 -->
+<div align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=xiaoyuan1996" /></div>
 
 <!-- 贪吃蛇代码贡献图 -->
