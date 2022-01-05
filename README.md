@@ -11,13 +11,14 @@
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小袁同学祝您今天愉快!&center=true&size=27">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyuan1996&theme=white&hide_border=true" />
   </a>
 </h1>
 
 <!-- 敲代码的图片 -->
 <div align="center" >
   <img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyuan1996&theme=white&hide_border=true" />
+
 </div>
 <br>
 
@@ -30,7 +31,7 @@
 <!-- BiliBili和CSDN数据 -->
 <div align="center">
    <a href="https://blog.csdn.net/Governer"><img src="https://stats.justsong.cn/api/csdn?id=Governer"/></a>
-   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyuan1996&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoyuan1996&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=white" />
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
