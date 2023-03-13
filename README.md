@@ -2,7 +2,7 @@
 
 ### Hello ～ Welcome to Xiaoyuan's Github 👋
 
-- 💬 **Status:** Boring works make me tired ...
+- 💬 **Status:** Doing good deeds without asking for reward ...
 - 🔭 **Currently:** Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.  
 - 🤔 **Research Interests:** Computer vision  pattern recognition, especially on cross-modal retrieval and image caption.
 
