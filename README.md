@@ -1,5 +1,7 @@
 ### Hello ～ Welcome to Xiaoyuan's Github 👋
 
 - 💬 **Status:** But do goods, don't ask about the future ...
-- 🔭 **Currently:** Pursuing the Ph.D. degree with the Aerospace Information Research Institute, Chinese Academy of Sciences, Beijing, China.  
-- 🤔 **Research Interests:** Computer vision & pattern recognition, especially on cross-modal retrieval and diffusion model.
+- 🔭 **Currently:** Applied Researcher @ WeChat (WXG), Tencent, working on on-device AI and personal agents. Previously Ph.D. at the Chinese Academy of Sciences (2019–2024).
+- 🤔 **Research Interests:** Multimodal understanding & generation, on-device AI, agent systems, and information retrieval.
+- 📚 **Publications:** [Google Scholar](https://scholar.google.com/citations?user=gtfpYs8AAAAJ&hl=zh-CN)
+- 📫 **Contact:** yuanzhiqiang19@mails.ucas.ac.cn
